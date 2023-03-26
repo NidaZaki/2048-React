@@ -1,0 +1,114 @@
+.tile {
+    width: 90px;
+    height: 90px;
+    border: 5px solid #2a3f6c;
+    border-radius: 15px;
+    font-size: 2.65rem;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  transition-property: transform;
+  transition-duration: 100ms;
+  transform: scale(1);
+}
+
+@keyframes show{
+    0% {
+        opacity: 0.5;
+        transform: scale(0);
+    }
+  }
+
+.x2 {
+    background-color: rgb(46, 142, 194);
+    color: black;
+    /* animation: show 100ms ease;
+    transition: 500ms ease-in-out;     */
+  }
+
+  .x4{
+    background-color: rgb(114, 23, 170);
+    color: white;
+    animation: show 100ms ease;
+    transition: 100ms ease-in-out;
+  }
+  
+  .x8 {
+    background-color: rgb(126, 68, 157);
+    color: white;
+    animation: show 100ms ease;
+    transition: 500ms ease-in-out; 
+  }
+  
+  .x16 {
+    background-color: rgb(163, 44, 185);
+    color: #000; 
+    animation: show 100ms ease;
+    transition: 500ms ease-in-out; 
+  }
+  
+  .x32 {
+    background-color: rgb(151, 34, 124);
+    color: #fff;
+    animation: show 100ms ease;
+    transition: 500ms ease-in-out; 
+  }
+  
+  .x64 {
+    background-color: rgb(75, 180, 212);
+    color: #000;
+    animation: show 100ms ease;
+    transition: 500ms ease-in-out; 
+  }
+  
+  .x128 {
+    background-color: #d75acc;
+    color: #000;
+    animation: show 100ms ease;
+    transition: 500ms ease-in-out; 
+  }
+  
+  .x256 {
+    background-color: #5474c6;
+    color: #000;
+    animation: show 100ms ease;
+    transition: 500ms ease-in-out; 
+  }
+  
+  .x512 {
+    background-color: #639fd4c4;
+    color: #000;
+    animation: show 100ms ease;
+    transition: 500ms ease-in-out; 
+  }
+  
+  .x1024 {
+   
+    background-color: #9f1fff;
+    color: #fff;
+    animation: show 100ms ease;
+    transition: 500ms ease-in-out; 
+  }
+  
+  .x2048 {
+    background-color: #ae71bc;
+    color: #fff;
+    animation: show 100ms ease;
+    transition: 500ms ease-in-out; 
+  }
+  
+  .x4096{
+    background-color: #c29be4;
+    color: #000;
+    animation: show 100ms ease;
+    transition: 500ms ease-in-out; 
+  }
+  
+  .x8192{
+    background-color: #b64084;
+    color: #fff;
+    animation: show 100ms ease;
+    transition: 500ms ease-in-out; 
+  }
