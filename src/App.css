@@ -48,7 +48,7 @@ button {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  column-gap: 1vw;
+  column-gap: 0.15vw;
   padding: 0.5vw 1vw 1vw;
   align-items: center;
 }
@@ -79,7 +79,8 @@ button {
 }
 
 .score-container.new-game.how-to {
-  width: 100px;
+  max-width: unset;
+  width: 135px;
   height: 55px;
 }
 

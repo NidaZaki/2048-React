@@ -1,8 +1,8 @@
 .tile {
-    width: 90px;
-    height: 90px;
-    border: 5px solid #2a3f6c;
-    border-radius: 15px;
+    width: 6.25vw;
+    height: 6.25vw;
+    border: 0.35vw solid #2a3f6c;
+    border-radius: 1.1vw;
     font-size: 2.65rem;
     font-weight: bold;
     display: flex;
