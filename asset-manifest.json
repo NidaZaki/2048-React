@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/2048-React/static/css/main.38cdebb9.css",
+    "main.css": "/2048-React/static/css/main.c4027c86.css",
     "main.js": "/2048-React/static/js/main.cbd1ebe8.js",
     "static/js/787.ec3ba862.chunk.js": "/2048-React/static/js/787.ec3ba862.chunk.js",
     "static/media/bootstrap-icons.woff?": "/2048-React/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
@@ -12,12 +12,12 @@
     "static/media/slick.ttf": "/2048-React/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/2048-React/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/2048-React/index.html",
-    "main.38cdebb9.css.map": "/2048-React/static/css/main.38cdebb9.css.map",
+    "main.c4027c86.css.map": "/2048-React/static/css/main.c4027c86.css.map",
     "main.cbd1ebe8.js.map": "/2048-React/static/js/main.cbd1ebe8.js.map",
     "787.ec3ba862.chunk.js.map": "/2048-React/static/js/787.ec3ba862.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38cdebb9.css",
+    "static/css/main.c4027c86.css",
     "static/js/main.cbd1ebe8.js"
   ]
 }
