@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/2048-React/static/css/main.38cdebb9.css",
+    "main.js": "/2048-React/static/js/main.cbd1ebe8.js",
+    "static/js/787.ec3ba862.chunk.js": "/2048-React/static/js/787.ec3ba862.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/2048-React/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/merging.PNG": "/2048-React/static/media/merging.07c6e78fd1a25279ffe9.PNG",
+    "static/media/bootstrap-icons.woff2?": "/2048-React/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/sliding.PNG": "/2048-React/static/media/sliding.2baeaddc1715da5f3ecb.PNG",
+    "static/media/slick.svg": "/2048-React/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/2048-React/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/2048-React/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/2048-React/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/2048-React/index.html",
+    "main.38cdebb9.css.map": "/2048-React/static/css/main.38cdebb9.css.map",
+    "main.cbd1ebe8.js.map": "/2048-React/static/js/main.cbd1ebe8.js.map",
+    "787.ec3ba862.chunk.js.map": "/2048-React/static/js/787.ec3ba862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38cdebb9.css",
+    "static/js/main.cbd1ebe8.js"
+  ]
+}
